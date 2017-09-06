@@ -24,6 +24,6 @@ Metadata for the seventh phase of the Children's Defense Fund (CDF) documents.
         |-- xml_export_of_open_refine_project.xml
 	|-- open_refine_template.md
 |-- original_data
-    |-- CDF_PhaseVII_ItemsToBeDigitized.csv
+    |-- CDF_PhaseVII_ItemsToBeDigitized.xlsx
 
 ```
