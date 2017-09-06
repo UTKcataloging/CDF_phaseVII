@@ -20,7 +20,7 @@ Metadata for the seventh phase of the Children's Defense Fund (CDF) documents.
         |-- final_cleaned.csv
         |-- final_export_of_project.openrefine.tar.gz
         |-- oxygen_project_file.xpr
-        |-- all_records_as_a_MODS_collection.mods.xml
+        |-- all_records_as_a_MODS_collection.xml
         |-- xml_export_of_open_refine_project.xml
 	|-- open_refine_template.md
 |-- original_data
