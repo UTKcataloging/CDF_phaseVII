@@ -12,9 +12,9 @@ Metadata for the seventh phase of the Children's Defense Fund (CDF) documents.
         |-- 0116_000050_000331.xml 
         |-- 0116_000050_000332.xml
         |-- 0116_000050_000333.xml
-        |-- 0116_000050_000334.xml
-        |-- 0116_000050_000335.xml
+        |-- 0116_000050_000335.xml [note: 334 was never digitized]
         |-- 0116_000050_000336.xml
+        |-- 0116_000050_000337.xml
         |-- etc. etc.
     |-- remediation_files
         |-- final_cleaned.csv
