@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0116_000050_000387</identifier>
+   <titleInfo>
+      <title>The Health of America's Children</title>
+   </titleInfo>
+   <identifier type="issn">10559221</identifier>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+   </location>
+   <abstract>This 7th edition of Health of America's Children presents national, international, state, and city statistics on the health of America's children and the adequacy of programs that serve them.</abstract>
+   <relatedItem type="host" displayLabel="Digital Collection">
+      <titleInfo>
+         <title>Children's Defense Fund</title>
+      </titleInfo>
+   </relatedItem>
+   <originInfo>
+      <dateIssued>1991</dateIssued>
+      <publisher>Children's Defense Fund (U.S.)</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">reports</form>
+      <extent unit="pages">34</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <name valueURI="http://id.loc.gov/authorities/names/n86084486"
+         authority="naf">
+      <namePart>Rosenbaum, Sara</namePart>
+      <role>
+         <roleTerm authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n92806095"
+         authority="naf">
+      <namePart>Layton, Christine</namePart>
+      <role>
+         <roleTerm authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n92806096"
+         authority="naf">
+      <namePart>Liu, Joseph</namePart>
+      <role>
+         <roleTerm authority="marcrelator">Author</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85066037">Infants--Mortality</topic>
+   </subject>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+</mods>
